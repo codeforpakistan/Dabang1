@@ -559,7 +559,7 @@ demo = {
             };
 
             $('#worldMap').vectorMap({
-                map: 'world_mill_en',
+                map: 'be_mill',
                 backgroundColor: "transparent",
                 zoomOnScroll: false,
                 regionStyle: {
